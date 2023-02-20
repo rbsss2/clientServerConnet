@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clientServerConnet/static/css/main.073c9b0a.css",
+    "main.js": "/clientServerConnet/static/js/main.f9982d2a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/clientServerConnet/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/clientServerConnet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/clientServerConnet/index.html",
+    "main.073c9b0a.css.map": "/clientServerConnet/static/css/main.073c9b0a.css.map",
+    "main.f9982d2a.js.map": "/clientServerConnet/static/js/main.f9982d2a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/clientServerConnet/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f9982d2a.js"
+  ]
+}
